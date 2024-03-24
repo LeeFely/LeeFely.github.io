@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lee Fely's Personal Information</title>
+
+</head>
+
+<body>
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Lee Fely</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
@@ -125,4 +136,6 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+</body>
 
+</html>
