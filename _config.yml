@@ -56,22 +56,22 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "Lee Fely"
   lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
+  linkedin         : "Lee Fely"
+  mastodon         : "Lee Fely"
+  medium           : "Lee Fely"
+  pinterest        : "Lee Fely"
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  tumblr           : "Lee Fely"
+  twitter          : "Lee Fely"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "Fely Lee"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
