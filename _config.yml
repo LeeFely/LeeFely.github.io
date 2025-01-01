@@ -12,7 +12,7 @@ title                    : "Lee Felix / B.S."
 title_separator          : "-"
 name                     : &name "Lee Felix"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://LeeFely.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LeeFely/LeeFely.github.io"
 
@@ -22,13 +22,14 @@ repository               : "LeeFely/LeeFely.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lee Felix"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lif182250@gmail.com" 
+  personal_blog    : "https://alllink-official.github.io"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
