@@ -31,48 +31,48 @@ author:
   email            : "lif182250@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/yourprofile"
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
+  impactstory      : "https://profiles.impactstory.org"
   orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net"
+  scopus           : "https://www.elsevier.com/products/scopus"
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  bitbucket        : "Lee Fely"
+  codepen          : "Lee Fely"
+  dribbble         : "Lee Fely"
+  github           : "Lee Fely"
+  kaggle           : "Lee Fely"
+  stackoverflow    : "Lee Fely"
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
+  bluesky          : "Lee Fely" # Replace this with you Bluesky username
+  facebook         : "Lee Fely"
+  flickr           : "Lee Fely"
+  foursquare       : "Lee Fely"
+  goodreads        : "Lee Fely"
+  google_plus      : "Lee Fely"
+  keybase          : "Lee Fely"
   instagram        : "Lee Fely"
-  lastfm           : # Username
+  lastfm           : "Lee Fely"
   linkedin         : "Lee Fely"
   mastodon         : "Lee Fely"
   medium           : "Lee Fely"
   pinterest        : "Lee Fely"
-  soundcloud       : # Username
-  steam            : # Username
+  soundcloud       : "Lee Fely"
+  steam            : "Lee Fely"
   telegram         : # URL
   tumblr           : "Lee Fely"
   twitter          : "Lee Fely"
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
+  vine             : "Lee Fely"
+  weibo            : "Lee Fely"
+  wikipedia        : "Lee Fely"
+  xing             : "Lee Fely"
   youtube          : "Fely Lee"
-  zhihu            : # Username
+  zhihu            : "Lee Fely"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
