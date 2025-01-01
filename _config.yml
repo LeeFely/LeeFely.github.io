@@ -23,13 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lee Felix"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "A student majors in oncology"
   location         : "Earth"
   employer         : "University"
-  uri              : # URL
+  uri              : "https://alllink-official.github.io"
   email            : "lif182250@gmail.com" 
-  personal_blog    : "https://alllink-official.github.io"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -86,7 +85,7 @@ publication_category:
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
