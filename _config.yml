@@ -36,7 +36,7 @@ author:
   impactstory      : "https://profiles.impactstory.org"
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : "https://www.semanticscholar.org"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Li+Fei"
   researchgate     : "https://www.researchgate.net"
   scopus           : "https://www.elsevier.com/products/scopus"
 
@@ -48,6 +48,7 @@ author:
   kaggle           : "Lee Fely"
   stackoverflow    : "Lee Fely"
   gitlab           : "Lee Fely"
+  gitea            : "Lee Fely"
 
   # Social media
   bluesky          : "Lee Fely" # Replace this with you Bluesky username
