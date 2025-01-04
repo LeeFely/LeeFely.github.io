@@ -8,9 +8,7 @@ redirect_from:
 ---
 #  🙋 Hello
 
-<table>
 
-<tr><td>
 
 ### 🤺 About Me
 
@@ -22,9 +20,6 @@ redirect_from:
 <p>&emsp;&emsp;Those who from the outset think that the world cannot be changed, or that they cannot change the world, are bound to fail in changing it.</p>
 <p>&emsp;&emsp;<strong>Those who believe from the beginning that the world cannot be changed or that they cannot change the world are destined to be unable to change the world.</strong></p>
 
-</td></tr>
-
-<tr><td>
 
 ### 🏢 Work and Education Experience
 
@@ -56,9 +51,6 @@ redirect_from:
   - Job position: middle school student
   - Job description: learning
 
-</td></tr>
-
-<tr><td>
 
 ### 📊 WakaTime
 
@@ -74,9 +66,6 @@ redirect_from:
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
-</td></tr>
-
-<tr><td>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -123,9 +112,7 @@ Mac                      29 hrs 54 mins      ███████████�
  Last Updated on 23/03/2024 01:13:11 UTC
 <!--END_SECTION:waka-->
 
-</td></tr>
 
-</table>
 
 
 <!-- ########################################## 分割 ########################################## -->
