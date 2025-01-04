@@ -27,8 +27,8 @@ author:
   bio              : "A student majors in oncology"
   location         : "Earth"
   employer         : "University"
-  uri_1            : "https://alllink-official.github.io"
-  uri_2            : "https://olink-official.github.io"
+  uri              : "https://alllink-official.github.io"
+  url              : "https://olink-official.github.io"
   email            : "lif182250@gmail.com" 
 
   # Academic websites
