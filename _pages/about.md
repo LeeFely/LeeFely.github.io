@@ -12,7 +12,7 @@ redirect_from:
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="https://LeeFely.github.io/images/avatar.png" />
 
 <p>&emsp;&emsp;Hello, guys. Welcome to my GitHub HomePage. My name is Lee Fely.</p>
 <p>&emsp;&emsp;I Love Nature Science including Bioscience, Chemistry, Computer Science, Data Scinence, Electronic Science, Mathematics, Medicine and Physics. </p>
