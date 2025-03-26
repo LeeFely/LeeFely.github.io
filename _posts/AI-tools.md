@@ -1,6 +1,7 @@
 ---
 title: AI_tools
 date: 2025-03-24
+permalink: /posts/2025/03/ai-tools/
 tags:
   - Guidance
   - AI
