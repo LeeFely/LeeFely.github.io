@@ -34,12 +34,57 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R language
+  * Bioinformatics
+  * Machine Learning
+* Python
+  * Bioinformatics
+  * Machine Learning
+  * Nature Language Processing
+* Julia language
+  * Data handle
+* MATLAB
+  * Data Handle
+  * Machine Learning
+* Front-end
+  * Node.js
+  * hexo
+  * hugo
+  * HTML
+* Other Languages
+  * Markdown
+  * Latex
+  * Mermaid
+* APPs
+  * Endnote
+  * Zotero
+  * Obsidian
+  * Cytoscape
+  * HisCite Pro
+  * Adobe Photoshop
+  * Adobe Illustrator
+  * Blender
+  * Maya
+  * AutoCAD
+  * C4D
+  * Citespace
+* Operating System
+  * Windows
+  * Ubuntu
+  * iOS
+  * Ares OS
+  * Casa OS
+  * iStore OS
+  * OpenWrt
+  * Synology DSM
+  * ESXI
+  * PVE
+* Docker
+  * Docker Desktop
+* Virtual Machine
+  * VMware Workstation
+  * VirtualBox
+* Git
 
 Publications
 ======
