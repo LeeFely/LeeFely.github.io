@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Hello! Welcome my website"
+title: "F.L. CV"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## Hello! Welcome my website
 
-## Our blogs
+## My blogs
 - [01ink](https://01inkofficial.wordpress.com/)
 - [AllLink-official](https://alllink-official.github.io/)
 - [AllLink-official-blog](https://alllinkofficial.blogspot.com/)
