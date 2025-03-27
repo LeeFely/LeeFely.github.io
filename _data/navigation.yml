@@ -34,6 +34,6 @@ main:
   - title: "Other Blogs"
     submenu:
       - title: "AllLink-official"
-        url: https://alllink-official.github.io/
+        url: "https://alllink-official.github.io/"
       - title: "OLink-official"
-        url: https://0link-official.blogspot.com/
+        url: "https://0link-official.blogspot.com/"
