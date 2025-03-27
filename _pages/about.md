@@ -18,7 +18,7 @@ redirect_from:
 - [oLink0](https://olink0.wordpress.com/)
 - [0Link-official-blog](https://0link-official.blogspot.com/)
 - [Lee Fely's Blog](https://leefelyblog001.blogspot.com/)
-- [Personal Website](https://leefely.github.io/)
+- [My CV && Blog](https://leefely.github.io/)
 
 
 A data-driven personal website
