@@ -5,6 +5,7 @@ permalink: /posts/2024/01/sponsor-me/
 tags:
   - Guidance
   - Sponsor
+excerpt: 'Your supports are greatly helpful.'
 ---
 # Sponsor me
 
