@@ -9,6 +9,9 @@ redirect_from:
 ## Hello! Welcome my website
 
 ## My blogs
+
+If you need PDFs, please browser and follow below blogs.
+
 - [01ink](https://01inkofficial.wordpress.com/)
 - [AllLink-official](https://alllink-official.github.io/)
 - [AllLink-official-blog](https://alllinkofficial.blogspot.com/)
