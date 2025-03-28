@@ -81,6 +81,7 @@ Skills
   * PVE
 * Docker
   * Docker Desktop
+  * docker-cli
 * Virtual Machine
   * VMware Workstation
   * VirtualBox
