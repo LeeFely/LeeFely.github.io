@@ -34,14 +34,14 @@ Work experience
   
 Skills
 ======
-* R language
+* R lang
   * Bioinformatics
   * Machine Learning
 * Python
   * Bioinformatics
   * Machine Learning
   * Nature Language Processing
-* Julia language
+* Julia lang
   * Data handle
 * MATLAB
   * Data Handle
@@ -50,14 +50,16 @@ Skills
   * Node.js
   * hexo
   * hugo
-  * HTML
+  * Jekyll
 * Other Languages
   * Markdown
   * Latex
   * Mermaid
+  * HTML
 * APPs
   * Endnote
   * Zotero
+  * Mendeley
   * Obsidian
   * Cytoscape
   * HisCite Pro
@@ -68,15 +70,19 @@ Skills
   * AutoCAD
   * C4D
   * Citespace
+  * Microsoft Word, Excel, Powerpoint
+  * SPSS
+  * Altium Designer
 * Operating System
   * Windows
   * Ubuntu
   * iOS
+  * MacOS
   * Ares OS
   * Casa OS
   * iStore OS
   * OpenWrt
-  * Synology DSM
+  * Synology DSM 7.x
   * ESXI
   * PVE
 * Docker
@@ -85,6 +91,7 @@ Skills
 * Virtual Machine
   * VMware Workstation
   * VirtualBox
+  * Hype-V
 * Git
 
 Publications
