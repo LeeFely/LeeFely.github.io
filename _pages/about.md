@@ -22,6 +22,7 @@ If you need PDFs, please browser and follow below blogs.
 - [0Link-official-blog](https://0link-official.blogspot.com/)
 - [Lee Fely's Blog](https://leefelyblog001.blogspot.com/)
 - [My CV && Blog](https://leefely.github.io/)
+- [AllLink-Navi](https://alllink-navi.blogspot.com/)
 
 
 A data-driven personal website
